@@ -1,0 +1,1 @@
+This is Leanore's first git project!
